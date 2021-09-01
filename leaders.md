@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [David Willingham](mailto:david.willingham@owasp.org)
+* [Josh Buker](mailto:josh.buker@owasp.org)
