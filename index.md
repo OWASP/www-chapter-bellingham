@@ -4,12 +4,11 @@ layout: col-sidebar
 title: OWASP Bellingham
 tags: bellingham whatcom
 region: North America
-meetup-group: OWASP-Bellingham
-
+meetup-group: owasp-bellingham-chapter
 ---
 
 ## OWASP Bellingahm
-Welcome to the Bellingham, Washington, USA, chapter homepage. We're currently setting up for our first meetings and will be meeting virtually for the foreseeable future.  If you're inteerested in speaking please reach out to us and check out the [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement). 
+Welcome to the Bellingham, Washington, USA, chapter homepage. We're currently setting up for our first meetings and will be meeting virtually for the foreseeable future.  If you're interested in speaking please reach out to us and check out the [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement). 
 
 For further information please feel free to reach out to our chapter leaders [Dave Willingham](mailto:dave.willingham@owasp.org) and [Josh Buker](mailto:josh.buker@owasp.org)
 
