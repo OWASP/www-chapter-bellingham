@@ -7,5 +7,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-bellingham-chapter/)
-
+* [Technology Alliance Group for Northwest Washington Discord](https://discord.gg/xwdRhUs)
 
