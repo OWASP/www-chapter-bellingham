@@ -7,5 +7,4 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-bellingham-chapter/)
-
-
+* [TAGNW Discord — Community Groups: #owasp-bellingham](https://discord.gg/xwdRhUs)
